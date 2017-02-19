@@ -1,0 +1,4 @@
+Pour le tutoriel, il faut avoir installé et bien configuré :
+- node : https://nodejs.org/
+- npm : https://www.npmjs.com/
+
